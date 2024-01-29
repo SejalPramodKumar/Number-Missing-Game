@@ -1,2 +1,2 @@
-# Number-Missing-Game
+# Guess-Missing-Game
 You have give 10 chances to guess the number from 1 to 100
